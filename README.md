@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3)](https://visitcount.itsvg.in)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web and Mobile Projects**
@@ -8,6 +10,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **faizzmi74@gmail.com**
 - 😄 Pronouns: He/Him
+
+## About Me
+I’m a recent Software Engineering graduate with a passion for front-end development and a commitment to creating high-quality, user-friendly applications. Skilled in frameworks like Angular and Ionic Angular, as well as HTML, CSS, JavaScript, and TypeScript, I focus on building responsive and efficient web applications that meet modern standards.
+
+During my internship, I gained hands-on experience working in an Agile environment, where I improved my coding, testing, and collaboration skills. This experience strengthened my problem-solving abilities and deepened my enthusiasm for software engineering.
+
+At Universiti Malaysia Pahang Al-Sultan Abdullah, I achieved Dean’s List honors multiple times, showing my dedication and strong work ethic. My studies in programming, system design, and human-computer interaction gave me a well-rounded skill set to tackle technical challenges creatively.
+
+I enjoy working in teams, contributing new ideas, and finding ways to improve productivity. I’m excited to bring my skills, motivation, and eagerness to learn to a new role. Let’s connect if you’d like to discuss opportunities or share insights!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizazmi7/) 
@@ -26,6 +37,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Faiz7401&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
