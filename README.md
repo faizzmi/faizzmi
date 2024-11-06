@@ -23,9 +23,14 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </div>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizazmi7/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizzmi74@gmail.com)
+## 💼 Experience
+- **Agile Methodologies**: 1 year (internship and academic projects)
+- **Front-End Development**: 2 years (Angular, Ionic Angular, HTML, CSS, JavaScript, TypeScript)
+- **API Integration**: 1 year (integrated RESTful APIs in multiple projects)
+- **Testing & Optimization**: 1 year (enhanced testing and delivery processes)
+- **Back-End Development**: 1 year (Laravel and PHP-based systems)
+- **Computer Vision**: 1 year (Python and OpenCV final year projects)
+- **Version Control**: 2 years (GitHub, GitLab, BitBucket for project management and collaboration)
 
 # 💻 Tech Stack:
 <div align="left">
@@ -52,6 +57,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="Ionic logo" /></code>
   <img width="12" />
   <code><img src="https://github.com/user-attachments/assets/7056945a-53c0-46d3-b330-a0a57563cec5" height="30" alt="Laravel logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /></code>
   <img width="12" />
   <code><img src="https://github.com/user-attachments/assets/719e3347-7a0a-4778-80f0-59ce34486fc3" height="30" alt="TailwindCSS logo" /></code>
   <img width="12" />
@@ -106,5 +113,9 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Faiz7401&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+## ☎️ Contact Me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizazmi7/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizzmi74@gmail.com)
+
 
 ---
