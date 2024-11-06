@@ -111,7 +111,7 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code logo" /></code>
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Journey:
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>   
@@ -119,6 +119,7 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
     </tr>
  </table>
 
+##
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
@@ -132,8 +133,5 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Faiz7401&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Faiz7401&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
