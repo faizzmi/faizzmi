@@ -4,7 +4,7 @@
 
 ##
 [![](https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3)](https://visitcount.itsvg.in)
-<tba
+
 A little about what I'm up to:
 
 - 🔭 I’m currently working on **Web and Mobile Projects**
@@ -73,6 +73,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
     </tr>
  </table>
+ 
+ ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-contribution-grid-snake-dark.svg)
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Faiz7401&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
