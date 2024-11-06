@@ -10,15 +10,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **faizzmi74@gmail.com**
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact:  "I code in light mode—no shame here!"
 
 ## About Me
-I’m a recent Software Engineering graduate with a passion for front-end development and a commitment to creating high-quality, user-friendly applications. Skilled in frameworks like Angular and Ionic Angular, as well as HTML, CSS, JavaScript, and TypeScript, I focus on building responsive and efficient web applications that meet modern standards.
+As a dedicated front-end developer and software engineer, I specialize in building responsive, intuitive, and visually appealing web applications using frameworks like Angular and Ionic Angular, alongside HTML, CSS, JavaScript, and TypeScript. I’m passionate about optimizing user experience and crafting applications that are both efficient and accessible.
 
-During my internship, I gained hands-on experience working in an Agile environment, where I improved my coding, testing, and collaboration skills. This experience strengthened my problem-solving abilities and deepened my enthusiasm for software engineering.
+My hands-on experience in Agile environments has shaped my approach to software development, equipping me with a strong foundation in coding, testing, and collaboration. I bring a detail-oriented mindset and a keen eye for identifying innovative solutions to complex problems. 
 
-At Universiti Malaysia Pahang Al-Sultan Abdullah, I achieved Dean’s List honors multiple times, showing my dedication and strong work ethic. My studies in programming, system design, and human-computer interaction gave me a well-rounded skill set to tackle technical challenges creatively.
-
-I enjoy working in teams, contributing new ideas, and finding ways to improve productivity. I’m excited to bring my skills, motivation, and eagerness to learn to a new role. Let’s connect if you’d like to discuss opportunities or share insights!
+An AI enthusiast, I’m always eager to explore the latest in machine learning and AI technologies to find creative ways to integrate intelligence into applications. I enjoy sharing ideas with my team, enhancing productivity, and constantly refining my skill set. I’m excited to contribute my skills, passion, and drive to a role that values creativity and forward-thinking. Let’s connect to explore opportunities!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizazmi7/) 
