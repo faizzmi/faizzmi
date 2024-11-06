@@ -2,42 +2,15 @@
   <img src="https://github.com/Faiz7401/Faiz7401/blob/main/github-header-image.png" alt="Header Image" width="100%">
 </p>
 
-##
-[![](https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3)](https://visitcount.itsvg.in)
-
-A little about what I'm up to:
+A little about what I'm up to: <img align="right" src="https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3" alt="Visitor count">
 
 - 🔭 I’m currently working on **Web and Mobile Projects**
 - 🌱 I’m currently learning **React and React Native**
-- 👯 I’m looking to collaborate on **Fronted Dev Projects**
+- 👯 I’m looking to collaborate on **Frontend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **faizzmi74@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code in light mode—no shame here!
-  
-<!-- ![image](https://github.com/user-attachments/assets/ad877206-3716-4f82-9454-14e3668089bc) 
-
-<table width="100%" height="100%">
-  <tr>
-    <td style="width: 75%">
-      A little about what I'm up to:
-      <ul class="dash">
-        <li>🔭 I’m currently working on <strong>Web and Mobile Projects</strong></li>
-        <li>🌱 I’m currently learning <strong>React and React Native</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>Front-End Dev Projects</strong></li>
-        <li>💬 Ask me about <strong>Technology and Personal Development</strong></li>
-        <li>📫 How to reach me: <strong>faizzmi74@gmail.com</strong></li>
-        <li>😄 Pronouns: He/Him</li>
-        <li>⚡ Fun fact: I code in light mode—no shame here!</li>
-      </ul>
-    </td>
-    <td>
-      <img style="border: none;" src="https://github.com/user-attachments/assets/ad877206-3716-4f82-9454-14e3668089bc" alt="Faiz's"/>
-    </td>
-  </tr>
-</table>
-
--->
 
 ## About Me
 As a dedicated front-end developer and software engineer, I specialize in building responsive, intuitive, and visually appealing web applications using frameworks like Angular and Ionic Angular, alongside HTML, CSS, JavaScript, and TypeScript. I’m passionate about optimizing user experience and crafting applications that are both efficient and accessible.
@@ -128,8 +101,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
     </tr>
  </table>
 
- ## 
- ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-contribution-grid-snake-dark.svg)
+ ## 🎮 Contributions
+ ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-snake.svg)
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Faiz7401&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
