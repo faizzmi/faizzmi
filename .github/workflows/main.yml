@@ -1,21 +1,34 @@
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch:  # Allows manual runs from the Actions tab
+  workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Specify the runner
+    runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      # Generate the snake contribution graph
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create output branch if it doesn't exist
+        run: |
+          git fetch origin
+          if ! git rev-parse --verify origin/output; then
+            git checkout --orphan output
+            git rm -rf .
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+          fi
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -27,15 +40,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Display git status for debugging purposes
       - name: Show build status
         run: git status
 
-      # Push new files to the output branch
-      - name: Push new files to output branch 
-        uses: crazy-max/ghaction-github-pages@v4  # Update to a newer version for Node 20 compatibility
+      - name: Push new files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output  # Output branch to store generated files
+          target_branch: output
           build_dir: dist
           commit_message: Update snake animations
         env:
