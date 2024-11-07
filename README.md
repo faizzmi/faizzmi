@@ -91,7 +91,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code logo" /></code>
 </div>
 
-# 📊 GitHub Journey:
+## 📊 GitHub Journey:
+
 <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>   
@@ -107,7 +108,6 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
     </tr>
  </table>
-
  ## 🎮 Contributions
  ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-snake.svg)
  
