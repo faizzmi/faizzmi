@@ -108,6 +108,7 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
     </tr>
  </table>
+ 
  ## 🎮 Contributions
  ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-snake.svg)
  
