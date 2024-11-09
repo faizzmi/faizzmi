@@ -2,7 +2,10 @@
   <img src="https://github.com/Faiz7401/Faiz7401/blob/main/github-header-image.png" alt="Header Image" width="100%">
 </p>
 
-A little about what I'm up to: <img align="right" src="https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3" alt="Visitor count">
+A little about what I'm up to: 
+<img align="right" src="https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3" alt="Visitor count">
+
+<img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" style="widtg: 50px;" />
 
 - 🔭 I’m currently working on **Web and Mobile Projects**
 - 🌱 I’m currently learning **React and React Native**
