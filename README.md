@@ -98,25 +98,25 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
 
 <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiz7401&theme=swift" alt="Faiz's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizzmi&theme=swift" alt="Faiz's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=faizzmi&theme=swift" alt="Faiz's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faiz7401&theme=swift&utcOffset=10" alt="Faiz's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faiz7401&theme=swift" alt="Faiz's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizzmi&theme=swift" alt="Faiz's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizzmi&theme=swift&utcOffset=10" alt="Faiz's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizzmi&theme=swift" alt="Faiz's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizzmi&theme=swift" alt="Faiz's GitHub Stats"/></td>
     </tr>
  </table>
  
  ## 🎮 Contributions
- ![Snake animation](https://raw.githubusercontent.com/Faiz7401/Faiz7401/output/github-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/faizzmi/faizzmi/output/github-snake.svg)
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Faiz7401&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=faizzmi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## ☎️ Contact Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizazmi7/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizzmi74@gmail.com)
