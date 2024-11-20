@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&idx=10&text=Faiz%20Azmi&desc=Software%20Engineer&fontAlign=50&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&idx=10&text=Faiz%20Azmi&fontColor=fff&desc=Software%20Engineer&fontAlign=50&fontAlignY=44)
 
 A little about what I'm up to: 
 <img align="right" src="https://visitcount.itsvg.in/api?id=Faiz7401&icon=8&color=3" alt="Visitor count">
