@@ -8,7 +8,7 @@ A little about what I'm up to:
 - 🔭 I’m currently working on **Web and Mobile Projects**
 - 🌱 I’m currently learning **React and React Native**
 - 👯 I’m looking to collaborate on **Frontend Dev Projects**
-- 💬 Ask me about **Technology and Personal Development**
+- 💬 Ask me about **Ideas**
 - 📫 How to reach me: **faizzmi74@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code in light mode—no shame here!
