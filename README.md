@@ -112,6 +112,7 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
  
  ## 🎮 Contributions
  ![Snake animation](https://raw.githubusercontent.com/faizzmi/faizzmi/output/github-snake.svg)
+ ![Git Graph](./profile-3d-contrib/profile-night-green.svg)
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faizzmi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
