@@ -5,7 +5,7 @@ A little about what I'm up to:
 
 <img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" style="width: 70%;" />
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **Backend Projects**
 - 🌱 I’m currently learning **.Net and C#**
 - 👯 I’m looking to collaborate on **Frontend Dev Projects**
 - 💬 Ask me about **Ideas**
