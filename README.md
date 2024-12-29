@@ -35,6 +35,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
 
 # 💻 Tech Stack:
 <div align="left">
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /></code>
@@ -51,33 +53,43 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /></code>
   <img width="12" />
+
+  <!-- Frameworks -->
+  <h3>Frameworks</h3>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="Angular logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="Ionic logo" /></code>
   <img width="12" />
-  <code><img src="https://github.com/user-attachments/assets/7056945a-53c0-46d3-b330-a0a57563cec5" height="30" alt="Laravel logo" /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /></code>
+<!--   <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="30" alt="Expo logo" /></code> -->
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js logo" /></code>
   <img width="12" />
   <code><img src="https://github.com/user-attachments/assets/719e3347-7a0a-4778-80f0-59ce34486fc3" height="30" alt="TailwindCSS logo" /></code>
+  
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" /></code>
   <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" /></code>
+  <img width="12" />
+  
+  <!-- Tools -->
+  <h3>Tools</h3>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket logo" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="Notion logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab logo" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="Notion logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="Swagger logo" /></code>
   <img width="12" />
@@ -90,6 +102,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="30" alt="Visual Studio logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code logo" /></code>
+<!--   <img width="12" />
+  <code><img src="https://www.gstatic.com/images/icons/material/data_studio_30px.png" height="30" alt="Data Studio logo" /></code> -->
 </div>
 
 ## 📊 GitHub Journey:
