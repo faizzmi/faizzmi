@@ -69,6 +69,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js logo" /></code>
   <img width="12" />
   <code><img src="https://github.com/user-attachments/assets/719e3347-7a0a-4778-80f0-59ce34486fc3" height="30" alt="TailwindCSS logo" /></code>
+  <img width="12" />
+  <code><img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" alt="Next.js logo" /></code>
   
   <!-- Databases -->
   <h3>Databases</h3>
