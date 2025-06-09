@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&idx=10&text=Faiz%20Azmi&fontColor=fff&desc=Software%20Engineer&fontAlign=50&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&idx=10&text=Faiz%20Azmi&fontColor=fff&desc=Frontend%20Developer&fontAlign=50&fontAlignY=44)
 
 A little about what I'm up to: 
 
