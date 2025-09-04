@@ -13,11 +13,7 @@ A little about what I'm up to:
 - ⚡ Fun fact: I code in light mode—no shame here!
 
 ## About Me
-As a dedicated front-end developer and software engineer, I specialize in building responsive, intuitive, and visually appealing web applications using frameworks like Angular and Ionic Angular, alongside HTML, CSS, JavaScript, and TypeScript. I’m passionate about optimizing user experience and crafting applications that are both efficient and accessible.
-
-My hands-on experience in Agile environments has shaped my approach to software development, equipping me with a strong foundation in coding, testing, and collaboration. I bring a detail-oriented mindset and a keen eye for identifying innovative solutions to complex problems. 
-
-An AI enthusiast, I’m always eager to explore the latest in machine learning and AI technologies to find creative ways to integrate intelligence into applications. I enjoy sharing ideas with my team, enhancing productivity, and constantly refining my skill set. I’m excited to contribute my skills, passion, and drive to a role that values creativity and forward-thinking. Let’s connect to explore opportunities!
+I am a Software Engineering graduate with experience developing responsive and scalable frontend applications using React, Angular, and Ionic. I’ve applied my skills through real projects and an internship, where I contributed to enterprise-level systems and collaborated across teams. I’m passionate about creating user-focused solutions and excited to grow my career in web development while continuing to learn and innovate.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
@@ -52,6 +48,8 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /></code>
   <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/cplusplus-original.svg" height="30" alt="C++ logo" /></code>
+  <img width="12" />
 
   <!-- Frameworks -->
   <h3>Frameworks</h3>
@@ -70,6 +68,9 @@ An AI enthusiast, I’m always eager to explore the latest in machine learning a
   <code><img src="https://github.com/user-attachments/assets/719e3347-7a0a-4778-80f0-59ce34486fc3" height="30" alt="TailwindCSS logo" /></code>
   <img width="12" />
   <code><img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" alt="Next.js logo" /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET logo" /></code>
+  <img width="12" />
   
   <!-- Databases -->
   <h3>Databases</h3>
