@@ -67,7 +67,7 @@ I am a Software Engineering graduate with experience developing responsive and s
   <img width="12" />
   <code><img src="https://github.com/user-attachments/assets/719e3347-7a0a-4778-80f0-59ce34486fc3" height="30" alt="TailwindCSS logo" /></code>
   <img width="12" />
-  <code><img src="https://nextjs.org/static/favicon/favicon-32x32.png" height="30" alt="Next.js logo" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET logo" /></code>
   <img width="12" />
