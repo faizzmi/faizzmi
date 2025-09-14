@@ -4,16 +4,16 @@ A little about what I'm up to:
 
 <img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" style="width: 70%;" />
 
-- 🔭 I’m currently working on **Data Analytic**
-- 🌱 I’m currently learning **Data Analytic with Python, .NET Application and C#**
-- 👯 I’m looking to collaborate on **Frontend Dev Projects, Data Analytic Projects**
-- 💬 Ask me about **Ideas**
-- 📫 How to reach me: **faizzmi74@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I code in light mode—no shame here!
+•	🔭 Currently “working on” figuring out life (and some Data stuff)
+•	🌱 Learning Python, .NET, C#… and how not to break my code
+•	👯 Open to collaborate on anything fun, or projects that don’t explode
+•	💬 Ask me about random ideas I’ll never finish (I yap a lot)
+•	📫 Reach me at: faizzmi74@gmail.com (pls no spam)
+• 😄 Pronouns: He/Him (but also “bro” works)
+•	⚡ Fun fact: My WiFi decides my productivity
 
 ## About Me
-I am a Software Engineering graduate with experience developing responsive and scalable frontend applications using React, Angular, and Ionic. I’ve applied my skills through real projects and an internship, where I contributed to enterprise-level systems and collaborated across teams. I’m passionate about creating user-focused solutions and excited to grow my career in web development while continuing to learn and innovate.
+Just a regular human who spends way too much time on screens, survives mostly on coffee, and pretends to know what’s going on. Always curious, occasionally chaotic, and probably overthinking things right now.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
