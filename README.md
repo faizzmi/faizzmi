@@ -4,8 +4,8 @@ A little about what I'm up to:
 
 <img align="right" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" style="width: 70%;" />
 
-- 🔭 Currently “working on” figuring out life (and some Data stuff)
-- 🌱 Learning Python, .NET, C#… and how not to break my code
+- 🔭 Currently “working on” figuring out life (PERN Stack and some Data stuff)
+- 🌱 Learning PERN Stack and how not to break my code
 - 👯 Open to collaborate on anything fun, or projects that don’t explode
 - 💬 Ask me about random ideas I’ll never finish (I yap a lot)
 - 📫 Reach me at: faizzmi74@gmail.com (pls no spam)
