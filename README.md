@@ -18,9 +18,9 @@ Outside of work I am obsessing over system design, and occasionally building too
 
 **[AgriAssist](https://agriassistv2-491306.web.app/login)** — a GIS-enabled SaaS platform built in collaboration with Pro Ladang International for Malaysian paddy farmers. Covers satellite imagery, pest detection, real-time weather feeds, and subscription access management. Deployed on Google Cloud Run.
 
-**Ring-It** — a personal finance tool with a custom ledger engine, automated expense tracking, and a clean high-fidelity interface.
+**[Ring-It](https://github.com/faizzmi/Ring-It)** — a personal finance tool with a custom ledger engine, automated expense tracking, and a clean high-fidelity interface.
 
-**Tahlil** — a notification and group tracker for Tahlil Raya visits, built for a real community of 50 plus users across 30 houses. Helps hosts prepare and guests know their distance and progress.
+**[Tahlil](https://github.com/faizzmi/trip-planner)** — a notification and group tracker for Tahlil Raya visits, built for a real community of 50 plus users across 30 houses. Helps hosts prepare and guests know their distance and progress.
 
 ---
 
@@ -64,5 +64,3 @@ Google Cloud Run · Firebase Hosting · Cloudinary · Git
 ## Contact
 
 [faizzmi74@gmail.com](mailto:faizzmi74@gmail.com) · [LinkedIn](https://linkedin.com/in/faizazmi7) · [Portfolio](https://faizazmi.vercel.app)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer)
