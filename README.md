@@ -28,7 +28,7 @@ Outside of work I am obsessing over system design, and occasionally building too
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24" title="Vue.js 3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="24" title="Vuetify" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" height="24" title="Leaflet.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24" title="Vue.js 3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="24" title="Vuetify" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" title="JavaScript" /> 
 
 Vue.js 3 · Vuetify · JavaScript · Leaflet.js
 
@@ -49,12 +49,6 @@ PostgreSQL · Supabase
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="24" title="Google Cloud Run" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" title="Firebase Hosting" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" title="Git" />
 
 Google Cloud Run · Firebase Hosting · Cloudinary · Git
-
-**Learning**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" title="Docker" />
-
-Docker
 
 ---
 
