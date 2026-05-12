@@ -5,11 +5,7 @@
 
 Hi, I'm Faiz. A full-stack software engineer based in Kuala Lumpur, currently building production systems in the AgriTech space.
 
-I joined Pro Ladang International as one of two engineers and took ownership of the full stack from day one, handling everything from database schema to cloud deployment. Most of what I build is real, shipped, and in active use by actual users and not just side projects.
-
-My work sits at the intersection of data, maps, and web interfaces. I spend a lot of time thinking about clean architecture, usable UI, and making complex systems feel simple to the people using them.
-
-Outside of work I am obsessing over system design, and occasionally building tools for my own life like a personal finance tracker and a Tahlil group coordinator for my community.
+I am obsessing over system design, and occasionally building tools for my own life like a personal finance tracker and a Tahlil group coordinator for my community.
 
 
 ---
