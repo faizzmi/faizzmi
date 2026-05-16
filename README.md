@@ -16,7 +16,7 @@ I am obsessing over system design, and occasionally building tools for my own li
 
 **[Ring-It](https://github.com/faizzmi/Ring-It)** — a personal finance tool with a custom ledger engine, automated expense tracking, and a clean high-fidelity interface.
 
-**[Tahlil](https://github.com/faizzmi/trip-planner)** — a notification and group tracker for Tahlil Raya visits, built for a real community of 50 plus users across 30 houses. Helps hosts prepare and guests know their distance and progress.
+**[Tahlil](https://github.com/faizzmi/Raya-Trip)** — a notification and group tracker for Tahlil Raya visits, built for a real community of 50 plus users across 30 houses. Helps hosts prepare and guests know their distance and progress.
 
 ---
 
